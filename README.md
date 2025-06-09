@@ -1,2 +1,2 @@
-# Botcamp-DIO-Santander-2025-Back-End-Python
-Botcamp Santander 2025 - Back End com Python - DIO
+# Bootcamp-DIO-Santander-2025-Back-End-Python
+Bootcamp Santander 2025 - Back End com Python - DIO
